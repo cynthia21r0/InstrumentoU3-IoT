@@ -69,6 +69,9 @@ https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=dri
 ![Imagen de WhatsApp 2024-12-04 a las 21 11 32_26a1d6cf](https://github.com/user-attachments/assets/c969bb15-da80-471e-b327-40cbd232fe3c)
 ![Imagen de WhatsApp 2024-12-04 a las 21 29 32_b8048c8b](https://github.com/user-attachments/assets/d97dd700-d2c7-412b-87f1-f0bd3338b64d)
 
+![image](https://github.com/user-attachments/assets/21c0b865-06d0-4093-ba93-95aa0564739f)
+
+
 
 ## Retroalimentación de mi compañera
 Trabajo muy bien durante el proyecto, en todo momento hubo buena comunicación y disposición a trabajar, además de que en todo momento me ayudo a poder juntar diferentes codigos y a ensamblar correctamente cada uno de los componentes.
