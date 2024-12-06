@@ -10,8 +10,9 @@
 El personaje de Santa Claus detectará la presencia de una persona cercana utilizando un sensor de ultrasonido. Cuando esto ocurra, activará una serie de acciones:
 Movimiento de la mano: La mano del personaje se moverán en un gesto de saludo, gracias a un servomotor conectado a su brazo.
 Reproducción de música: Comenzará a sonar música navideña a través de un buzzer.
-Luces LED: Se encenderá una tira de luces LED que parpadearán o cambiarán de patrón, creando un ambiente festivo.
-Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la punta de un árbol girara en sentido del reloj.
+Luces LED: Se encenderá una tira de luces LED que parpadearán o cambiarán de patrón, creando un ambiente festivo. Ademas se encendera una matriz de leds donde mostrara mensajes enviados desde un dashboard.
+Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la punta de un árbol girara en sentido del reloj, esta por comunicacion por node-red.
+Pin táctil: Se encendera un led rojo cuando se toque la punta de un cable.
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
@@ -48,6 +49,7 @@ https://drive.google.com/drive/folders/1ygDu8JqCnvvL3d-Gv-54EgSyaAyg7j8d?usp=sha
 
 ## TikTok
 https://vm.tiktok.com/ZMke8UcxM/
+https://vm.tiktok.com/ZMkRj2cuh/
 
 ## Imágenes y videos del proyecto
 ![Imagen de WhatsApp 2024-11-30 a las 23 03 11_d505bd2e](https://github.com/user-attachments/assets/c834e061-4f72-4167-a31f-2fa0c75d1354)
