@@ -20,7 +20,7 @@ Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la
 |HC-SR04|<img src="https://github.com/user-attachments/assets/9ce1ec8d-9693-4492-8e09-ec2d587b93c4" width="150"/>|1|50|
 |Servomotores SG90 o MG90S|<img src="https://github.com/user-attachments/assets/c0f78d9a-c8d4-4d4b-a7f6-1887cbb1a4ab" width="150"/>|2|80|
 |Tira de LEDs|<img src="https://github.com/user-attachments/assets/2c62ea32-6399-4297-a866-6490cfb6e4cf" width="150"/>|60 leds|60|
-|Módulo de sonido DFPlayer Mini|<img src="https://github.com/user-attachments/assets/4ebffb24-e643-476a-b1f6-adb798018268" width="150"/>|1|95|
+|Módulo de zumbador pasivo|<img src="https://github.com/user-attachments/assets/4ebffb24-e643-476a-b1f6-adb798018268" width="150"/>|1|95|
 |Tela roja|<img src="https://github.com/user-attachments/assets/48ce2eaf-d0e6-4fba-9d77-3ce5dac5de6d" width="150"/>|1m|50|
 |Tela blanca|<img src="https://github.com/user-attachments/assets/c437d47e-35e0-4953-abc7-fd8e4871059b" width="150"/>|1m|70|
 |Algodon|<img src="https://github.com/user-attachments/assets/2eeb77f7-5cd0-4787-9f36-b394d1de48a4" width="150"/>|3 pzas|70|
