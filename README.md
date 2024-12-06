@@ -30,6 +30,12 @@ Pin táctil: Se encendera un led rojo cuando se toque la punta de un cable.
 |Escarcha|<img src="https://http2.mlstatic.com/D_NQ_NP_611748-MLM72901944016_112023-O.webp" width="150"/>|1m|20|
 |Mini esferas|<img src="https://i5.walmartimages.com/asr/c6764503-1920-471a-a814-339a90aafb00.7566fb8a31f35ef5ac87f7fd1d37102d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" width="150"/>|10pz|30|
 |Motor a pasos|<img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/19465b474/motor-a-pasos-de-4-lineas-de-control-5-vcc.jpg" width="150"/>|1pz|60|
+|Liston negro|<img src="https://github.com/user-attachments/assets/ddd781c0-ffed-496f-9f59-83aee0bcc031" width="120"/>|1|10|
+|Triplay|<img src="https://github.com/user-attachments/assets/b7b73865-d9c4-4c3c-8fef-ff5f62d41a23" width="150"/>|1|60|
+|Pistola de silicon|<img src="https://github.com/user-attachments/assets/45cefb54-cbfb-4076-a480-f5fd20e9e669" width="150"/>|1|80|
+|Tijeras|<img src="https://github.com/user-attachments/assets/f50afda1-5c14-4f1c-a6b3-03c71508b6b5" width="150"/>|1|20|
+|Cables|<img src="https://github.com/user-attachments/assets/18a62ae5-7904-4dab-a412-6aa2bd50b7ef" width="150"/>|90|90|
+|Cable USB|<img src="https://github.com/user-attachments/assets/834f603d-1e84-46f3-9c84-c6b19f223014" width="150"/>|4|80|
 ## Software a utilizar:
 |Software |  
 |--|
