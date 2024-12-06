@@ -1,6 +1,6 @@
 # Personaje2024
-## Nombre del personaje:
-## SantaBot3000
+## Nombre del personaje: SantaBot3000
+
 |Autoras|
 |--|
 |-Granados Estrada Cynthia Janeth|
@@ -60,3 +60,7 @@ https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=dri
 ![Imagen de WhatsApp 2024-12-04 a las 21 06 10_935c9ab6](https://github.com/user-attachments/assets/14bbf1f4-e477-411a-ab2e-c90f8614121b)
 ![Imagen de WhatsApp 2024-12-04 a las 21 11 32_26a1d6cf](https://github.com/user-attachments/assets/c969bb15-da80-471e-b327-40cbd232fe3c)
 ![Imagen de WhatsApp 2024-12-04 a las 21 29 32_b8048c8b](https://github.com/user-attachments/assets/d97dd700-d2c7-412b-87f1-f0bd3338b64d)
+
+
+## Retroalimentación de mi compañera
+Trabajo muy bien durante el proyecto, en todo momento hubo buena comunicación y disposición a trabajar, además de que en todo momento me ayudo a poder juntar diferentes codigos y a ensamblar correctamente cada uno de los componentes.
